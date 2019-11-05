@@ -6,3 +6,5 @@
 - Neu 1 file ma co mau do co nghia la chua them file do vao git. Cho nen phai add vao git. Lam nhu sau:
   + Click chuot phai vo file => Git => add
   + Sau do an: Ctr + K de commit + push code len server git.
+
+- Neu muon pulll (lay code tu server git) thi an: Ctrl + T
