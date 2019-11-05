@@ -1,0 +1,4 @@
+- cai phan mem PHPStorm nay goi la IDE
+- Trong IDE neu muon commit code len thi an: Ctrl + K
+- Trong IDE neu muon push code len thi an: Ctrl +  Shift + K
+- Trong IDE vua commit vua push code len thi an: Ctrl + K, roi se mo ra man hinh nay: https://prnt.sc/psj1v0, sau do an  Commit and Push.
