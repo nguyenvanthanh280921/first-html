@@ -2,3 +2,7 @@
 - Trong IDE neu muon commit code len thi an: Ctrl + K
 - Trong IDE neu muon push code len thi an: Ctrl +  Shift + K
 - Trong IDE vua commit vua push code len thi an: Ctrl + K, roi se mo ra man hinh nay: https://prnt.sc/psj1v0, sau do an  Commit and Push.
+
+- Neu 1 file ma co mau do co nghia la chua them file do vao git. Cho nen phai add vao git. Lam nhu sau:
+  + Click chuot phai vo file => Git => add
+  + Sau do an: Ctr + K de commit + push code len server git.
