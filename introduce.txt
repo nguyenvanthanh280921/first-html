@@ -8,3 +8,5 @@
   + Sau do an: Ctr + K de commit + push code len server git.
 
 - Neu muon pulll (lay code tu server git) thi an: Ctrl + T
+- TrungNV update
+- Seconds row updated
